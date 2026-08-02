@@ -11,7 +11,7 @@ description:
   `misa.S` bit.
 
   "
-long_name: TODO
+long_name: Mutable MISA S Bit Enable
 schema:
   type: boolean
 requirements:

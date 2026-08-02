@@ -11,7 +11,7 @@ description:
   `misa.H` bit.
 
   "
-long_name: TODO
+long_name: Mutable MISA H Bit Enable
 schema:
   type: boolean
 requirements:
